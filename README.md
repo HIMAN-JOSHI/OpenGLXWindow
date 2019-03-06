@@ -5,7 +5,9 @@ This project creates a basic x window (using Xlib) and initializes the OpenGL co
 Required packages:
 
 1. libx11-dev
+
 Command:- sudo apt-get install libX11-dev
+
 Purpose:- for X11/Xlib
 
 2. mesa-common-dev
